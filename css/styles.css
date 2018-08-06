@@ -51,14 +51,13 @@ nav.main-nav .nav-link{
     font-size: 1.2rem;
     color: #282828;
     font-family: 'Raleway', sans-serif; 
+    transition: 1s;
 }
 nav.main-nav .nav-link:hover{
   background-color: #bdd1f7;
-  border-radius: 10px;
+  border-radius: 20px;
 }
-nav.main-nav .nav-item {
-    transition: background-color .5s ease;
-}
+
 /** Slider **/
 .carousel .carousel-caption h4{
      font-family: 'Raleway', sans-serif; 
